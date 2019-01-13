@@ -1,3 +1,0 @@
-Consumer Key	uHFyKFqAYIfPtsOVqopH
-Consumer Secret	pmnwMJybzeCfdmKTOAiywekKloNiCuZl
-token 		niKtmQLybGRjlyOlfXhuRxtNThyIjZnjQyrGltgs
