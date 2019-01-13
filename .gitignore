@@ -1,2 +1,5 @@
 .idea/
 .vagrant/
+consumer_keys.text
+phpinfo.php
+
